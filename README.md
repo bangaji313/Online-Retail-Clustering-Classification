@@ -16,7 +16,6 @@ Proyek ini bertujuan untuk menganalisis dataset **Online Retail** dengan fokus p
 - ✅ Visualisasi hasil clustering dan analisis karakteristik cluster  
 
 ## Cara Menjalankan
-## Cara Menjalankan
 1. **Clone Repository**
    ```bash
    git clone https://github.com/bangaji313/Online-Retail-Clustering-Classification.git
